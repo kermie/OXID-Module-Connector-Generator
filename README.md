@@ -9,7 +9,7 @@ Oxid module to generate json files from shop articles for the OXID module connec
 3. Activate module
 4. That´s it!
 
-##Screenshots
+## Screenshots
 ![OXID module connector generator](omcgenerator_admin1.png)
 
 ## License
